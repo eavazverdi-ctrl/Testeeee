@@ -1,0 +1,5 @@
+{
+  "name": "Simple Messenger UI",
+  "description": "A visually appealing, non-functional UI clone of a simple messenger application, featuring stories, a chat list, and a bottom navigation menu, designed with a modern dark theme.",
+  "requestFramePermissions": []
+}
